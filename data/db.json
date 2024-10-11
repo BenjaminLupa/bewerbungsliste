@@ -3,24 +3,13 @@
     {
       "id": "4",
       "datum": "10.9.2024, 07:25:42",
-      "firma": "Moin",
-      "straße": "ihr",
-      "plz": "Luschen",
-      "stadt": "",
-      "ansprechpartner": "",
-      "aktiv": false,
-      "absageDatum": "16.9.2024, 08:31:43"
-    },
-    {
-      "id": "732",
-      "datum": "19.9.2024, 07:37:55",
-      "firma": "Hallo",
-      "straße": "na wie gehts",
-      "plz": "38108",
-      "stadt": "Br",
-      "ansprechpartner": "",
-      "aktiv": false,
-      "absageDatum": "19.9.2024, 07:42:25"
+      "firma": "Max",
+      "straße": "Mustermann",
+      "plz": "23145",
+      "stadt": "Musterstadt",
+      "ansprechpartner": "Herr Mustermann",
+      "aktiv": true,
+      "absageDatum": ""
     },
     {
       "id": "968",
@@ -32,17 +21,7 @@
       "ansprechpartner": "",
       "aktiv": true,
       "absageDatum": ""
-    },
-    {
-      "id": "969",
-      "datum": "13.9.2024, 07:44:13",
-      "firma": "MEINSTACK OHG",
-      "straße": "Steinfeldstraße 3",
-      "plz": "39179",
-      "stadt": "Barleben",
-      "ansprechpartner": "",
-      "aktiv": true,
-      "absageDatum": ""
     }
+
   ]
 }
