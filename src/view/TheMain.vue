@@ -1,6 +1,6 @@
 <template>
     <div class="body">
-        <the-form />
+        <TheSidebar />
         <nav class="filter">
             <button @click="filter = 'all'">All tasks</button>
             <button @click="filter = 'favs'">favs tasks</button>
@@ -21,7 +21,7 @@
 </template>
 
 <script setup>
-import TheForm from '@/components/TheForm.vue';
+import TheSidebar from '@/view/TheSidebar.vue';
 import TheTable from '@/components/TheTable.vue';
 import {bewerbungsStore} from '@/store/bewerbung';
 import {ref} from 'vue';
