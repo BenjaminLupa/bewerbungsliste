@@ -1,0 +1,48 @@
+{
+  "bewerbungen": [
+    {
+      "id": "4",
+      "datum": "10.9.2024, 07:25:42",
+      "firma": "Moin",
+      "straße": "ihr",
+      "plz": "Luschen",
+      "stadt": "",
+      "ansprechpartner": "",
+      "aktiv": false,
+      "absageDatum": "16.9.2024, 08:31:43"
+    },
+    {
+      "id": "732",
+      "datum": "19.9.2024, 07:37:55",
+      "firma": "Hallo",
+      "straße": "na wie gehts",
+      "plz": "38108",
+      "stadt": "Br",
+      "ansprechpartner": "",
+      "aktiv": false,
+      "absageDatum": "19.9.2024, 07:42:25"
+    },
+    {
+      "id": "968",
+      "datum": "13.9.2024, 07:44:13",
+      "firma": "BWS Consulting Group GmbH",
+      "straße": "Hohenbüchen 5",
+      "plz": "38444",
+      "stadt": "Wolfsburg",
+      "ansprechpartner": "",
+      "aktiv": true,
+      "absageDatum": ""
+    },
+    {
+      "id": "969",
+      "datum": "13.9.2024, 07:44:13",
+      "firma": "MEINSTACK OHG",
+      "straße": "Steinfeldstraße 3",
+      "plz": "39179",
+      "stadt": "Barleben",
+      "ansprechpartner": "",
+      "aktiv": true,
+      "absageDatum": ""
+    }
+  ]
+}
